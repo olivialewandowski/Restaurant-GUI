@@ -1,0 +1,167 @@
+Employee1Name, years, wage, [0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+Employee2Name, years, wage, [0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+endEmployee
+order1, idNum, status, date(obj.getTime()), customerName, contactInfo, address
+order2
+endOrder
+product1
+product2
+endInventory
+Taco, Burger, Tiramisu
+LocationName, LocationAddy
+
+Alex,3,20,0;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;0;0;0,110001&
+Todd,4,18,0;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;0;0;0,102291&
+endEmployee&
+123,Dine-In,5577823,Benjy,206-678-4386,110 E 14th Str&
+124,Takeout,5838372,Johnny,356-584-2992,60 5th Ave&
+endOrder&
+bananas,30,0.5,5&
+steak,20,30,10&
+endInventory&
+Tacos,Big steak,Tiramisu&
+endMenu&
+Jeff Bezos,10,1500&
+endManager&
+Washington Square, 67 Broadway
+!
+
+
+
+Alex,3,30.0,0;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;0;0;0,110001&
+Todd,4,18.0,0;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;0;0;0,102291&
+endEmployee&
+Tacos,30,0.5,3&
+Burrito,20,30.0,2&
+endInventory&
+123,Dine-In,5577823,Benjy,206-678-4386,110 E 14th Str,Tacos&
+124,Takeout,5838372,Johnny,356-584-2992,60 5th Ave,Tacos;Burrito&
+endOrder&
+Tacos,Big steak,Tiramisu&
+endMenu&
+Jeff Bezos,10,1500.0&
+endManager&
+Washington Square,67 Broadway
+!
+Tim,3,20.0,0;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;0;0;0,110001&
+Billy,4,18.0,0;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;0;0;0,102291&
+endEmployee&
+Lasagna,30,0.5,3&
+Spaghetti,20,30.0,2&
+endInventory&
+123,Dine-In,5577823,Benjy,206-678-4386,110 E 14th Str,Lasagna&
+124,Takeout,5838372,Johnny,356-584-2992,60 5th Ave,Lasagna;Spaghetti&
+endOrder&
+Tacos,Big steak,Tiramisu&
+endMenu&
+Elon Musk,10,1500.0&
+endManager&
+14th Str,67 Broadway
+!
+Jack,3,20.0,0;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;0;0;0,110001&
+Jonathan,4,18.0,0;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;0;0;0,102291&
+endEmployee&
+Burger,30,0.5,3&
+Milkshake,20,30.0,2&
+endInventory&
+123,Dine-In,5577823,Benjy,206-678-4386,110 E 14th Str,Milkshake&
+124,Takeout,5838372,Johnny,356-584-2992,60 5th Ave,Burger&
+endOrder&
+Tacos,Big steak,Tiramisu&
+endMenu&
+Pedro Pascal,10,1500.0&
+endManager&
+Times Sq,67 Broadway
+!
+
+Alex,3,30.0,0;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;0;0;0,110001&
+Todd,4,18.0,0;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;0;0;0,102291&
+endEmployee&
+Tacos,30,0.5,3&
+Burrito,20,30.0,2&
+endInventory&
+123,Dine-In,5577823,Benjy,206-678-4386,110 E 14th Str,Tacos&
+124,Takeout,5838372,Johnny,356-584-2992,60 5th Ave,Tacos;Burrito&
+endOrder&
+Tacos,Big steak,Tiramisu&
+endMenu&
+Jeff Bezos,10,1500.0&
+endManager&
+Washington Square,67 Broadway
+!
+Tim,3,20.0,0;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;0;0;0,110001&
+Billy,4,18.0,0;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;0;0;0,102291&
+endEmployee&
+Lasagna,30,0.5,3&
+Spaghetti,20,30.0,2&
+endInventory&
+123,Dine-In,5577823,Benjy,206-678-4386,110 E 14th Str,Lasagna&
+124,Takeout,5838372,Johnny,356-584-2992,60 5th Ave,Lasagna;Spaghetti&
+endOrder&
+Tacos,Big steak,Tiramisu&
+endMenu&
+Elon Musk,10,1500.0&
+endManager&
+14th Str,67 Broadway
+!
+Jack,3,20.0,0;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;0;0;0,110001&
+Jonathan,4,18.0,0;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;0;0;0,102291&
+endEmployee&
+Burger,30,0.5,3&
+Milkshake,20,30.0,2&
+endInventory&
+123,Dine-In,5577823,Benjy,206-678-4386,110 E 14th Str,Milkshake&
+124,Takeout,5838372,Johnny,356-584-2992,60 5th Ave,Burger&
+endOrder&
+Tacos,Big steak,Tiramisu&
+endMenu&
+Pedro Pascal,10,1500.0&
+endManager&
+Times Sq,67 Broadway
+!
+
+Alex,3,30,0;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;0;0;0,110001&
+Todd,4,18,0;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;0;0;0,102291&
+endEmployee&
+123,Dine-In,5577823,Benjy,206-678-4386,110 E 14th Str&
+124,Takeout,5838372,Johnny,356-584-2992,60 5th Ave&
+endOrder&
+bananas,30,0.5,5&
+steak,20,30,10&
+endInventory&
+Tacos,Big steak,Tiramisu&
+endMenu&
+Jeff Bezos,10,1500&
+endManager&
+Washington Square,67 Broadway
+!
+Tim,3,20,0;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;0;0;0,110001&
+Billy,4,18,0;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;0;0;0,102291&
+endEmployee&
+123,Dine-In,5577823,Benjy,206-678-4386,110 E 14th Str&
+124,Takeout,5838372,Johnny,356-584-2992,60 5th Ave&
+endOrder&
+bananas,30,0.5,5&
+steak,20,30,10&
+endInventory&
+Tacos,Big steak,Tiramisu&
+endMenu&
+Elon Musk,10,1500&
+endManager&
+14th Str,67 Broadway
+!
+Jack,3,20,0;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;0;0;0,110001&
+Jonathan,4,18,0;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;0;0;0,102291&
+endEmployee&
+123,Dine-In,5577823,Benjy,206-678-4386,110 E 14th Str&
+124,Takeout,5838372,Johnny,356-584-2992,60 5th Ave&
+endOrder&
+bananas,30,0.5,5&
+steak,20,30,10&
+endInventory&
+Tacos,Big steak,Tiramisu&
+endMenu&
+Pedro Pascal,10,1500&
+endManager&
+Times Sq,67 Broadway
+!
